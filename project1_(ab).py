@@ -96,4 +96,5 @@ if __name__ == "__main__":
         print("Sorted array: ")
         print_array(arr)
         print("Number of comparisons: ", num_cmp)
-        num_cmp = 0
+        num_cmp = 0 
+        print (generate_random_array(2**(i), 100))
